@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65571513335",
+    "project_id": "qtowin-38935",
+    "storage_bucket": "qtowin-38935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65571513335:android:8e03d8dd5338d4f30484f2",
+        "android_client_info": {
+          "package_name": "com.example.a20q"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65571513335-1fq9n7036m9n0oju7lbv6ov4khn9atcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkQBPkJ9PUff12qZZITWYK8RwKpKK0jYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65571513335-1fq9n7036m9n0oju7lbv6ov4khn9atcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
